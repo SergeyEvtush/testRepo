@@ -1,4 +1,4 @@
-const b = "наша ветка lesson01";
+const b = "1000";
 
 const logged = () => {
 	console.log('lesson02');

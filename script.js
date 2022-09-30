@@ -1,4 +1,4 @@
-const a = 1;
+const a = "d";
 const b = "наша ветка lesson01";
 
 const logged = () => {

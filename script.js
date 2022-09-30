@@ -5,3 +5,7 @@ const logged = () => {
 	console.log('lesson02');
 
 };
+const logged1 = () => {
+	console.log('lesson03');
+
+};
